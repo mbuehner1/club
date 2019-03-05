@@ -1,0 +1,50 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 50%;
+  width: 50%;
+}
+.style{
+  text-align: center;
+  font-family: "Lucida Console", monospace;
+  font-size: 40px;
+  background-color: white;
+}
+.style2{
+  text-align: center;
+  font-size: 30px;
+  font-style: serif;
+}
+.text{
+  text-align: center;
+  font-family: "Lucida Console", monospace;
+  font-size: 30px;
+  color: black;
+  background-color: white;
+}
+.okay{
+  font-family: "Lucida Console", monospace;
+  font-size: 30px;
+  color: black;
+  text-align: center;
+}
+.para{
+  text-align: center;
+  font-family: "Lucida Console", monospace;
+  font-size: 30px;
+  color: black;
+}
+.right {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  height: 50%;
+  width: 50%;
+}
+footer {
+position:fixed;
+bottom: 0px;
+width: 100%;
+text-align: center;
+}
